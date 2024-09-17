@@ -8,9 +8,9 @@ body {background-color: #c5fffe}
 #lien {font-family: Arial; font-size: 10pt; color: rgb(255, 0, 55)}
 #photo {width: 190px}
 
-#l1 {font-family: Arial; font-size: 12pt; background-color: #ceffd2}
-#l2 {font-family: Arial; font-size: 12pt; background-color: #ffcee5}
-#l3 {font-family: Arial; font-size: 12pt; background-color: #fffcce}
-#l4 {font-family: Arial; font-size: 12pt; background-color: #d3ceff}
+#l1 {font-family: Arial; font-size: 12pt; background-color: #ceffd2; border: dotted;}
+#l2 {font-family: Arial; font-size: 12pt; background-color: #ffcee5; border: dotted}
+#l3 {font-family: Arial; font-size: 12pt; background-color: #fffcce; border: dotted}
+#l4 {font-family: Arial; font-size: 12pt; background-color: #d3ceff; border: dotted}
 
 tr {width : 100}
