@@ -1,16 +1,15 @@
 
 
-h1 {font-family: Arial ; font-size: 12pt}
+h1 {font-family: Arial ; font-size: 16pt}
 body {background-color: #c5fffe}
+table {width : 150%; border-collapse: collapse; max-width: 100%}
 
 
-
-#lien {font-family: Arial; font-size: 10pt; color: rgb(255, 0, 55)}
 #photo {width: 190px}
 
-#l1 {font-family: Arial; font-size: 12pt; background-color: #ceffd2; border: dotted;}
-#l2 {font-family: Arial; font-size: 12pt; background-color: #ffcee5; border: dotted}
-#l3 {font-family: Arial; font-size: 12pt; background-color: #fffcce; border: dotted}
-#l4 {font-family: Arial; font-size: 12pt; background-color: #d3ceff; border: dotted}
+#P1 {font-family: Arial; font-size: 12pt; background-color: #ceffd2; border: dotted}
+#P2 {font-family: Arial; font-size: 12pt; background-color: #ffcee5; border: dotted}
+#P3 {font-family: Arial; font-size: 12pt; background-color: #fffcce; border: dotted}
+#P4 {font-family: Arial; font-size: 12pt; background-color: #d3ceff; border: dotted}
 
-tr {width : 100}
+.lg_imp tr:nth-child(odd) {background-color: #1047dd; padding: 10px}
