@@ -1,15 +1,16 @@
 
-
-h1 {font-family: Arial ; font-size: 16pt}
-body {background-color: #c5fffe}
-table {width : 150%; border-collapse: collapse; max-width: 100%}
+h1 {font-family: Arial ; font-size: 16pt ; font-weight: 400}
+body {background-color: #b6d8f2}
+table {width : 150%; border-collapse: collapse; max-width: 100% ; height : 100px }
+ul { list-style-type: square}
 
 
 #photo {width: 190px}
+#P13 {font-family: Arial; font-size: 12pt; background-color: #f4cfdf; border: dotted}
+#P24 {font-family: Arial; font-size: 12pt; background-color: #f7f6cf; border: dotted}
 
-#P1 {font-family: Arial; font-size: 12pt; background-color: #ceffd2; border: dotted}
-#P2 {font-family: Arial; font-size: 12pt; background-color: #ffcee5; border: dotted}
-#P3 {font-family: Arial; font-size: 12pt; background-color: #fffcce; border: dotted}
-#P4 {font-family: Arial; font-size: 12pt; background-color: #d3ceff; border: dotted}
+.lg_imp tr:nth-child(odd) {background-color: #6294d1; padding: 10px}
 
-.lg_imp tr:nth-child(odd) {background-color: #1047dd; padding: 10px}
+a:link { color:rgb(26, 160, 66); text-decoration:none; }
+a:visited { color:rgb(235, 21, 85); text-decoration:none; }
+  
