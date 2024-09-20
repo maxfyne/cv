@@ -9,8 +9,8 @@ ul { list-style-type: square}
 #P13 {font-family: Arial; font-size: 12pt; background-color: #f4cfdf; border: dotted}
 #P24 {font-family: Arial; font-size: 12pt; background-color: #f7f6cf; border: dotted}
 
+
 .lg_imp tr:nth-child(odd) {background-color: #6294d1; padding: 10px}
 
 a:link { color:rgb(26, 160, 66); text-decoration:none; }
 a:visited { color:rgb(235, 21, 85); text-decoration:none; }
-  
